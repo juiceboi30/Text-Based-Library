@@ -7,7 +7,13 @@ This a Simple Text based Library for Java Beginners. It teaches you Data Structs
 5️ Main connects everything by creating objects and calling methods to run the app.
 
 
+
+
 Here is the output:
 
 <img width="677" height="280" alt="image" src="https://github.com/user-attachments/assets/39b19886-ea6d-4b6f-a4c7-b0ae9ec26b0c" />
+
+
+/* By Johnson Koryon: website: https://juiceboi30.github.io/myportfolio/
+*/
 
